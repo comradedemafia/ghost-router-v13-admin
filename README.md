@@ -1,2 +1,1 @@
-# ghost-router-v13-admin
-osint
+Ghost Router Admin Panel
